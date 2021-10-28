@@ -6,5 +6,5 @@ Un clic droit suffit pour aller rechercher dans différentes sources et proposer
 Pour l'installer, téléchargez le ZIP, décompressez-le et lancez le fichier dézippé.
 
 Les ressources utilisées pour faire la remontée des synonymes :
-- https://crisco2.unicaen.fr/des/
-- http://www.synonymo.fr/
+- <a href="https://crisco2.unicaen.fr/des/" target="_blank">https://crisco2.unicaen.fr/des/</a>
+- <a href="http://www.synonymo.fr/" target="_blank">http://www.synonymo.fr/</a>
